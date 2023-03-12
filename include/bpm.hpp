@@ -1,4 +1,5 @@
-﻿#​pragma​ once
+﻿/* 弃用头文件
+#​pragmapragma​ once
 
 // 引用的头文件
 #include<iostream>
@@ -9,3 +10,4 @@ namespace bpm
 {
 	
 }
+*/
